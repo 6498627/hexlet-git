@@ -1,1 +1,1 @@
-cancel commit 
+git revert
