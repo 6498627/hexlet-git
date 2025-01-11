@@ -1,1 +1,6 @@
 cancel commit 
+git restore --staged
+
+
+
+git reset --mixed
