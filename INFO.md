@@ -6,4 +6,4 @@ git restore --staged
 git reset --mixed
 
 
-git amend
+git amend test
